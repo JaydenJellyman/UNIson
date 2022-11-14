@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>delete.png</file>
+        <file>complete.png</file>
+        <file>logo.png</file>
+        <file>logohome.png</file>
+        <file>newmessage.png</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>ding.mp3</file>
+        <file>sound</file>
+    </qresource>
+</RCC>
